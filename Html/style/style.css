@@ -1,25 +1,29 @@
 h1{
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 40px;
+  color:rgb(4, 42, 42);
 }
-h1{color:darkslategrey;}
 p {
     font-family: "Lucida Console", "Courier New", monospace;
+    font-style: italic;
     color:blue;
     font-size: 20px;
 }
 p1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-style: italic;
-  color:darkred;
+  color:darkgreen;
   font-size: 20px;
 }
 p2 {
   font-family: "Brush Script MT";
+  font-style: italic;
   color:rgb(87, 22, 91);
   font-size: 20px;
 }
 p3 {
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
-  color:rgb(99, 36, 15);
+  font-family: "Courier New", Courier, monospace;
+  font-style: normal;
+  color:rgb(212, 30, 60);
   font-size: 20px;
 }
