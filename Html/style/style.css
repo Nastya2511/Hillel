@@ -1,0 +1,27 @@
+h1{
+  font-family: "Courier New", Courier, monospace;
+  color:darkslategrey;
+  font-size: 40px;
+}
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color:blue;
+    font-size: 20px;
+}
+p1 {
+  font-style: italic;
+  color:darkred;
+  font-size: 20px;
+}
+p2 {
+  font-family: "Brush Script MT";
+  color:rgb(87, 22, 91);
+  font-size: 20px;
+}
+p3 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color:rgb(99, 36, 15);
+  font-size: 20px;
+}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<i class="fas fa-heart"></i>
