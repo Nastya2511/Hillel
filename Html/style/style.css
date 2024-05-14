@@ -1,4 +1,7 @@
-style="text-align: center;"
+ div {
+    text-align: center;
+  }
+
 h1{
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 40px;
